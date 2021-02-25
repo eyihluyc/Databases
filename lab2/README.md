@@ -17,18 +17,6 @@
 
 ## Exercise 2
 
-Run
-```
-psql -U postgres
-```
-
-enter password that was set during installation.
-
-Create database and connect to it with
-```
-create database MOVIES_DB;
-\c innorussiandb;
-```
 Run script [MOVIE_DB.sql](https://github.com/eyihluyc/Databases/blob/master/lab2/MOVIE_DB.sql)
 
 
